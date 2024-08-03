@@ -1,0 +1,1 @@
+This is the attributions section of the project, where I have included the licenses for the packages I have used. If you believe that I have violated your copyright, or have not followed the terms of your license, please reach out to me at gabelagleva@gmail.com. I will do my best to correct the error.
