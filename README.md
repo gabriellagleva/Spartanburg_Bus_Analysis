@@ -1,3 +1,8 @@
+Below is a research paper I wrote cowrote in the spring of 2025. In it, I utalized mathematical modeling techniques to find ways of potentially increasing the effencity of the Spartanburg Bus System. By the end of it, were were able to find a way to increasse the number of property parcels that were able to reach the busess by about 13%, without incrceasing the number of busses or the number of stops. This swas done ssimpy by finding "redundant" bus stops
+
+<img width="695" height="451" alt="image" src="https://github.com/user-attachments/assets/620e4296-ba5d-4249-8e21-cc79728bab2c" />
+
+
 **Introduction:**
 
 Providing efficient and accessible public transportation is a critical challenge for urban planners and transit authorities. An important aspect of this is optimizing the placement of bus stops to maximize coverage for residents while minimizing redundancies that increase travel time. Our model maximizes residents' accesrajsibility to bus stops while attempting to have minimal increase on travel time of the bus routes. This is done by decreasing the amount of overlapping coverage between stops while maintaining the same number of bus routes. In doing so, we increase the total area of coverage provided by the bus network. Research shows that up to 26% of a bus's time is spent waiting at bus stops for passengers to board and deboard (Leviston et al. 1983). Additional research suggests that dwell time increases when buses are overcrowded, and people are forced to stand (Rajbhandari et al. 2003). As such, if buses are not overcrowded, there is minimal effect on dwell time. This is not difficult, as only about 0.2 % of people in Spartanburg city use the bus system (U.S. Census Bureau. 2022). As such, decreasing the distance that people need to walk, thereby increasing accessibility to the bus stops without too much delay is possible.
@@ -120,3 +125,4 @@ Parcel data for Spartanburg County was given by Drew Harris, GIS manager for Spa
 <img width="695" height="451" alt="image" src="https://github.com/user-attachments/assets/725025bf-0edc-4fa2-a1cb-c0db397bd7ce" />
 
 **Appendix Figure 1:** A map of all bus stops within the sparta route. South Libery Street depicted in cyan on the bottom right
+
