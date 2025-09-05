@@ -1,6 +1,5 @@
 Below is a research paper I wrote cowrote in the spring of 2025. In it, I utalized mathematical modeling techniques to find ways of potentially increasing the effencity of the Spartanburg Bus System. By the end of it, were were able to find a way to increasse the number of property parcels that were able to reach the busess by about 13%, without incrceasing the number of busses or the number of stops. This swas done ssimpy by finding "redundant" bus stops
-
-<img width="695" height="451" alt="image" src="https://github.com/user-attachments/assets/620e4296-ba5d-4249-8e21-cc79728bab2c" />
+<img width="1147" height="855" alt="image" src="https://github.com/user-attachments/assets/117f9224-e362-48a3-b19a-d70a7b64e47f" />
 
 
 **Introduction:**
@@ -125,4 +124,5 @@ Parcel data for Spartanburg County was given by Drew Harris, GIS manager for Spa
 <img width="695" height="451" alt="image" src="https://github.com/user-attachments/assets/725025bf-0edc-4fa2-a1cb-c0db397bd7ce" />
 
 **Appendix Figure 1:** A map of all bus stops within the sparta route. South Libery Street depicted in cyan on the bottom right
+
 
